@@ -6,4 +6,6 @@
 3.lab03 hello toast计数器  
 4.lab04 2activity  
 5.lab05 implict intents. 
-6.lab06 Clickable images
+6.lab06 Clickable images  
+7.lab07 input-controls user-navigation  recycler-view  
+
