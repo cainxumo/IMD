@@ -8,4 +8,6 @@
 5.lab05 implict intents. 
 6.lab06 Clickable images  
 7.lab07 input-controls user-navigation  recycler-view  
+8.lab08 添加卡片视图和图像 为卡片添加动作 创建一个FAB 共享元素过渡  
+
 
